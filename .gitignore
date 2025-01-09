@@ -1,1 +1,40 @@
+# Compiled object files
+*.o
+*.obj
+*.dll
 *.exe
+*.pdb
+
+# Generated files
+*.log
+*.cache
+*.csproj.user
+
+# Directory for compiled binary outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.vs/
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+~$*
+
+# Dependency directories
+packages/
+node_modules/
+
+# Visual Studio specific
+.vs/
+
+# Rider specific
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
